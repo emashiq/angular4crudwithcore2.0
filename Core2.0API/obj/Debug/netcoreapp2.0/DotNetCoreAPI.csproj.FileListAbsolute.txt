@@ -1,0 +1,10 @@
+F:\Dot NET Core\DotNetCoreAPI\bin\Debug\netcoreapp2.0\DotNetCoreAPI.deps.json
+F:\Dot NET Core\DotNetCoreAPI\bin\Debug\netcoreapp2.0\DotNetCoreAPI.runtimeconfig.json
+F:\Dot NET Core\DotNetCoreAPI\bin\Debug\netcoreapp2.0\DotNetCoreAPI.runtimeconfig.dev.json
+F:\Dot NET Core\DotNetCoreAPI\bin\Debug\netcoreapp2.0\DotNetCoreAPI.dll
+F:\Dot NET Core\DotNetCoreAPI\bin\Debug\netcoreapp2.0\DotNetCoreAPI.pdb
+F:\Dot NET Core\DotNetCoreAPI\obj\Debug\netcoreapp2.0\DotNetCoreAPI.csproj.CoreCompileInputs.cache
+F:\Dot NET Core\DotNetCoreAPI\obj\Debug\netcoreapp2.0\DotNetCoreAPI.AssemblyInfoInputs.cache
+F:\Dot NET Core\DotNetCoreAPI\obj\Debug\netcoreapp2.0\DotNetCoreAPI.AssemblyInfo.cs
+F:\Dot NET Core\DotNetCoreAPI\obj\Debug\netcoreapp2.0\DotNetCoreAPI.dll
+F:\Dot NET Core\DotNetCoreAPI\obj\Debug\netcoreapp2.0\DotNetCoreAPI.pdb

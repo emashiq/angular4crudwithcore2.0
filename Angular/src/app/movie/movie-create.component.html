@@ -1,0 +1,31 @@
+<div class="col-md-4">
+<form (ngSubmit)="onSubmit()" #movieForm="ngForm" [formGroup]="form">
+<div class="form-group">
+    <label for="title" class="control-label">Title</label>
+    <input type="text" class="form-control" id="name"
+    required
+    [(ngModel)]="movie.title" name="title"
+     formControlName="title">
+    <label for="genre" class="control-label">Genre</label>
+    <input type="text" class="form-control" id="name"
+    required
+    [(ngModel)]="movie.genre" name="genre"
+     formControlName="genre">
+    <label for="releaseDate" class="control-label">Release Date</label>
+    <input type="text" class="form-control" id="name"
+    required
+    [(ngModel)]="movie.releaseDate" name="releaseDate"
+     formControlName="releaseDate" type="datetime-local">
+    <br>
+    <label for="price" class="control-label">Price</label>
+    <input type="text" class="form-control" id="name"
+    required
+    [(ngModel)]="movie.price" name="price"
+     formControlName="price" type="number">
+    <br>
+    
+    <button class="btn btn-primary" (click)="submitted=true" [disabled]="!form.valid">Save</button>
+</div>
+</form>
+</div>
+<div class="col-md-12" *ngIf="message"><span class="alert alert-info">{{message}}</span></div>

@@ -1,0 +1,17 @@
+F:\Dot NET Core\DotNetCoreAPI
+--output-path=obj\Debug\netcoreapp2.0\
+--application-name=DotNetCoreAPI
+--content-root=F:\Dot NET Core\DotNetCoreAPI
+--file=F:\Dot NET Core\DotNetCoreAPI\Views\Home\About.cshtml
+--file=F:\Dot NET Core\DotNetCoreAPI\Views\Home\Contact.cshtml
+--file=F:\Dot NET Core\DotNetCoreAPI\Views\Home\Index.cshtml
+--file=F:\Dot NET Core\DotNetCoreAPI\Views\Movies\Create.cshtml
+--file=F:\Dot NET Core\DotNetCoreAPI\Views\Movies\Delete.cshtml
+--file=F:\Dot NET Core\DotNetCoreAPI\Views\Movies\Details.cshtml
+--file=F:\Dot NET Core\DotNetCoreAPI\Views\Movies\Edit.cshtml
+--file=F:\Dot NET Core\DotNetCoreAPI\Views\Movies\Index.cshtml
+--file=F:\Dot NET Core\DotNetCoreAPI\Views\Shared\Error.cshtml
+--file=F:\Dot NET Core\DotNetCoreAPI\Views\Shared\_Layout.cshtml
+--file=F:\Dot NET Core\DotNetCoreAPI\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=F:\Dot NET Core\DotNetCoreAPI\Views\_ViewImports.cshtml
+--file=F:\Dot NET Core\DotNetCoreAPI\Views\_ViewStart.cshtml

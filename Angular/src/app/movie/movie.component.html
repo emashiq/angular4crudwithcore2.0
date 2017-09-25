@@ -1,0 +1,24 @@
+<a routerLink="/movie/create" routerLinkActive="active" class="btn btn-info">Add New Movie</a>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+                <th>Id</th>
+                <th>Title</th>
+                <th>Genre</th>
+                <th>Release Date</th>
+                <th>Price</th>
+                <th>Action</th>
+        </tr>
+    </thead>
+   <tbody>
+       <tr *ngFor="let m of movie">
+           <td>{{m.id}}</td>
+           <td>{{m.title}}</td>
+           <td>{{m.genre}}</td>
+           <td>{{m.releaseDate | date:'yMMMMd'}}</td>
+           <td>{{m.price}} BDT</td>
+           <td> <a routerLink="movie/edit/{{m.id}}" [routerLinkActive]="['active']">Edit</a></td>
+       </tr>
+   </tbody>
+
+</table>
