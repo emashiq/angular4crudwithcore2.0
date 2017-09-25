@@ -1,4 +1,4 @@
-This is simple class with out any relation 
+This is simple model class with out any relation 
 
 This repository introduce how to work with
 DOT NET Core 2.0 Web API
